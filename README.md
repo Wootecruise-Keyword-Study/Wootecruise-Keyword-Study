@@ -14,6 +14,7 @@
 - Exception
 - lambda
 - JVM
+- JVM Runtime Data Area
 - equals vs hashcode
 
 ### 테스트 관련
@@ -106,8 +107,6 @@
 - 정규화
 
 ### 그 외 프로그래밍 용어
-
-- API
-- 프레임워크, 라이브러리
+- 프레임워크, 라이브러리, API
 - SQL
 - REST
