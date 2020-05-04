@@ -5,15 +5,15 @@
 - static, 생성자
 - Enum, 함수형 인터페이스, 스트림, 쓰레드
 - final 키워드
-- call by reference vs value
-- gradle 컴파일? 과정(포비가 보여줬던 out 폴더에 class 파일이 생성되고 그런거)
+- [call by reference vs value](./Java/Call-By-Reference-vs-Call-By-Value/README.md)
+- [gradle 빌드 과정](./Java/Gradle/README.md)
 - 가비지 컬렉션
 - Optional
 - Function, Supplier, BiFunction, Predicate
 - interface, abstract class
 - Exception
 - lambda
-- JVM
+- [JVM](./Java/JVM/README.md)
 - JVM Runtime Data Area
 - equals vs hashcode
 
