@@ -7,14 +7,14 @@
 - final 키워드
 - [call by reference vs value](./Java/Call-By-Reference-vs-Call-By-Value/README.md)
 - [gradle 빌드 과정](./Java/Gradle/README.md)
-- 가비지 컬렉션
+- [Garbage Collection](./Java/Garbage-Collection/README.md)
 - Optional
 - Function, Supplier, BiFunction, Predicate
 - interface, abstract class
 - Exception
 - lambda
 - [JVM](./Java/JVM/README.md)
-- JVM Runtime Data Area
+- [JVM Runtime Data Area](./Java/JVM-Runtime-Data-Area/README.md)
 - equals vs hashcode
 
 ### 테스트 관련
@@ -78,11 +78,12 @@
 
 ### 네트워크
 - TCP/IP
-- HTTP 헤더, 메세지, 응답, 상태
+- [HTTP 통신](./Java/HTTP-통신/README.md)
 - 쿠키, 세션
 - URL
 - 3 way handshake
 - DNS
+- Load Balancer
 
 ### OS
 - 프로세스
