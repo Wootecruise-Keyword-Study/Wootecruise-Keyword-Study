@@ -30,10 +30,10 @@
 - 리팩토링
 - 결합도, 추상화, 의존성
 - 일급컬렉션
-- 불변 객체, 상태
+- [불변 객체](./Java/Immutable-Object/README.md)
 - 객체 vs 개체
 - Class vs 객체
-- SRP, OCP, LSP, ISP, DIP (SOLID)
+- [SOLID](./Java/SOLID/README.md)
 - 데미테르 법칙
 - 동기, 비동기
 - 오퍼레이션
@@ -93,8 +93,7 @@
 - roundrobin
 - 단편화
 - 페이징
-- 세마포
-- lock
+- [Lock](./OS/Lock/README.md)
 
 ### 자료구조
 
