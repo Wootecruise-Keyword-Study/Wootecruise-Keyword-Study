@@ -15,7 +15,7 @@
 - lambda
 - [JVM](./Java/JVM/README.md)
 - [JVM Runtime Data Area](./Java/JVM-Runtime-Data-Area/README.md)
-- equals vs hashcode
+- [equals vs hashcode](./Java/equals-vs-hashcode/README.md)
 
 ### 테스트 관련
 
@@ -78,15 +78,16 @@
 
 ### 네트워크
 - TCP/IP
-- [HTTP 통신](./Java/HTTP-통신/README.md)
+- OSI 7계층
+- [HTTP 통신](./Network/HTTP-통신/README.md)
 - 쿠키, 세션
-- URL
+- [URI](./Network/URI/README.md)
 - 3 way handshake
 - DNS
 - Load Balancer
 
 ### OS
-- 프로세스
+- [프로세스vs스레드](./OS/Process-vs-Thread/README.md)
 - 레지스터
 - 스레드
 - 스케줄러
